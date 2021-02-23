@@ -49,7 +49,7 @@ namespace Assignment_1
         {
             Console.WriteLine("Write id to be updated");
             int id = Convert.ToInt32(Console.ReadLine());
-            e.update(12);
+            e.update(id);
             Console.WriteLine("Write name to be updated");
             string name = Console.ReadLine();
             e.update(name);
