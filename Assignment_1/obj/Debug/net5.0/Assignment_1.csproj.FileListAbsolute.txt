@@ -1,0 +1,16 @@
+F:\Promact Training\C#_course\Assignments\Assignment_1\bin\Debug\net5.0\Assignment_1.exe
+F:\Promact Training\C#_course\Assignments\Assignment_1\bin\Debug\net5.0\Assignment_1.deps.json
+F:\Promact Training\C#_course\Assignments\Assignment_1\bin\Debug\net5.0\Assignment_1.runtimeconfig.json
+F:\Promact Training\C#_course\Assignments\Assignment_1\bin\Debug\net5.0\Assignment_1.runtimeconfig.dev.json
+F:\Promact Training\C#_course\Assignments\Assignment_1\bin\Debug\net5.0\Assignment_1.dll
+F:\Promact Training\C#_course\Assignments\Assignment_1\bin\Debug\net5.0\ref\Assignment_1.dll
+F:\Promact Training\C#_course\Assignments\Assignment_1\bin\Debug\net5.0\Assignment_1.pdb
+F:\Promact Training\C#_course\Assignments\Assignment_1\obj\Debug\net5.0\Assignment_1.csprojAssemblyReference.cache
+F:\Promact Training\C#_course\Assignments\Assignment_1\obj\Debug\net5.0\Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Promact Training\C#_course\Assignments\Assignment_1\obj\Debug\net5.0\Assignment_1.AssemblyInfoInputs.cache
+F:\Promact Training\C#_course\Assignments\Assignment_1\obj\Debug\net5.0\Assignment_1.AssemblyInfo.cs
+F:\Promact Training\C#_course\Assignments\Assignment_1\obj\Debug\net5.0\Assignment_1.csproj.CoreCompileInputs.cache
+F:\Promact Training\C#_course\Assignments\Assignment_1\obj\Debug\net5.0\Assignment_1.dll
+F:\Promact Training\C#_course\Assignments\Assignment_1\obj\Debug\net5.0\ref\Assignment_1.dll
+F:\Promact Training\C#_course\Assignments\Assignment_1\obj\Debug\net5.0\Assignment_1.pdb
+F:\Promact Training\C#_course\Assignments\Assignment_1\obj\Debug\net5.0\Assignment_1.genruntimeconfig.cache
