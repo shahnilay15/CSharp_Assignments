@@ -67,7 +67,7 @@ namespace Assignment_G2._1
               
 
             }
-            Console.WriteLine("Price : {pricetotal}");
+            Console.WriteLine($"Price : {pricetotal}");
         }
     }
 }
